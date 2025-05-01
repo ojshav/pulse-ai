@@ -2,6 +2,10 @@
 
 A Streamlit application that extracts and structures documentation content from websites into a hierarchical module-submodule format using AI. This tool helps in analyzing technical documentation and generating structured insights about its organization and content.
 
+![image](https://github.com/user-attachments/assets/4906fb02-c7b1-4c75-8038-24dbaf80fc7a)
+![image](https://github.com/user-attachments/assets/6c59cd79-0183-47b7-a835-a1fb68b5274e)
+
+
 ## Features
 
 - Web scraping with BeautifulSoup
