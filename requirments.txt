@@ -1,0 +1,12 @@
+streamlit
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-groq
+langchain-core
+crewai
+python-dotenv
+requests
+urllib3
+trafilatura
