@@ -37,7 +37,7 @@ The application is built using the following components:
 - `langchain-groq`: Interface for Groq's LLM
 - `langchain`: Framework for LLM application development
 - `python-dotenv`: Environment variable management
-https://www.loom.com/share/0285fa2307464f3787976a8ff4bfb94f?sid=2c098dcd-a04d-410b-876f-5ab76ee11009
+
 
 
 ## Setup Instructions
